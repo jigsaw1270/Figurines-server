@@ -2,6 +2,7 @@ const express = require('express');
 const cors = require('cors');
 const app = express();
 const port = process.env.PORT || 5000;
+require('dotenv').config();
 const { MongoClient, ServerApiVersion, ObjectId } = require('mongodb');
 const alltoys = require('./Data/toys.json')
 
@@ -11,10 +12,9 @@ app.use(cors());
 app.use(express.json());
 
 
-// toy-marketplace
-// kmuiS7pNdbuK1ihJ
 
-const uri = "mongodb+srv://toy-marketplace:kmuiS7pNdbuK1ihJ@jigsaw1270.6chjsjt.mongodb.net/?retryWrites=true&w=majority";
+
+const uri = `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASS}@jigsaw1270.6chjsjt.mongodb.net/?retryWrites=true&w=majority`;
 
 const client = new MongoClient(uri, {
     serverApi: {
@@ -110,7 +110,7 @@ app.get('/alltoys/:id',(req,res)=>{
 
 
 app.get('/',(req, res)=>{
-    res.send('Toy marketplace is running')
+    res.send('Toy-marketplace is running')
 })
 app.listen(port,()=>{
     console.log(`Server is running pn port: ${port}`)
