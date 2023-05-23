@@ -1,0 +1,223 @@
+[
+    {
+        "id": 1,
+      "seller": "Toy World",
+      "toy_name": "Superhero Man",
+      "sub_category": "Superheroes",
+      "img": "https://i.ibb.co/6RVrdVc/mona-Astral-Reflection-figure-official-merch-genshin.webp",
+      "price": 19.99,
+      "available_quantity": 10,
+      "description" : "Behold the mighty warrior, crafted in exquisite detail, ready to unleash his unparalleled combat skills. This anime action figure features a dynamic pose, with bulging muscles and fierce determination etched onto his face. Clad in intricate armor, he wields a colossal sword, poised to strike down any enemy that dares to challenge him.",
+      "rating": 5
+    },
+    {
+        "id": 2,
+      "seller": "Toys Galore",
+      "toy_name": "Ganyu",
+      "sub_category": "Ninjas",
+      "img": "https://i.ibb.co/t8RCHmJ/kamisato-ayaka-fanmade-figure-merch-genshin.webp",
+      "price": 24.99,
+      "description" : "Embrace the power of nature with this mesmerizing anime action figure. With intricate detailing of foliage and vines, this figure blends seamlessly into its environment. Its pose captures a moment of elemental mastery, as it conjures swirling winds and crackling lightning, channeling the forces of nature to protect the world.",
+      "available_quantity": 5
+    },
+    {
+        "id": 3,
+      "seller": "Toy Universe",
+      "toy_name": "Space Explorer",
+      "sub_category": "Sci-Fi",
+      "img": "https://i.ibb.co/7tHf7h5/GIFG-Zhongli-1.jpg",
+      "price": 29.99,
+      "description" : "Journey to a fantastical realm with this whimsical anime action figure. With its colorful attire, oversized weapon, and mischievous grin, this character captures the spirit of adventure. Its dynamic pose suggests a mischievous leap, ready to take on any challenge with a blend of skill and charm.",
+      "available_quantity": 8,
+      
+      "rating": 4
+    },
+    {
+        "id": 4,
+      "seller": "Fun Toys",
+      "toy_name": "Dino Adventures",
+      "sub_category": "Animals",
+      "img": "https://i.ibb.co/YQrh77m/FIG17-0561.jpg",
+      "description": "Witness the embodiment of heroism with this iconic anime action figure. With a confident stance and a determined expression, this character exudes unwavering courage. Clad in a vibrant costume, complete with a flowing cape and symbol emblazoned on the chest, it stands as a symbol of hope and justice in a world in need.",
+      "price": 14.99,
+      "available_quantity": 15,
+      "rating": 4.5
+    },
+    {
+        "id": 5,
+      "seller": "Playful Pals",
+      "toy_name": "Magical Fairy",
+      "sub_category": "Fantasy",
+      "img": "https://i.ibb.co/nsqg9D2/genshin-raiden-shogun-figure-1.webp",
+      "price": 12.99,
+      "description" : "Journey to a fantastical realm with this whimsical anime action figure. With its colorful attire, oversized weapon, and mischievous grin, this character captures the spirit of adventure. Its dynamic pose suggests a mischievous leap, ready to take on any challenge with a blend of skill and charm.",
+      "available_quantity": 20,
+      "rating": 5
+    },
+    {
+        "id": 6,
+      "seller": "Toy World",
+      "toy_name": "Action Hero",
+      "sub_category": "Superheroes",
+      "img": "https://i.ibb.co/vX0GH46/723335432-max.jpg",
+      "description": "Witness the embodiment of heroism with this iconic anime action figure. With a confident stance and a determined expression, this character exudes unwavering courage. Clad in a vibrant costume, complete with a flowing cape and symbol emblazoned on the chest, it stands as a symbol of hope and justice in a world in need.",
+      "price": 21.99,
+      "rating": 4.5,
+
+      "available_quantity": 3
+    },
+    {
+        "id": 7,
+      "seller": "Toys Galore",
+      "toy_name": "Samurai Swordsman",
+      "sub_category": "Ninjas",
+      "img": "https://i.ibb.co/kc7n68c/701100039-max.jpg",
+      "price": 26.99,
+      "rating": 5,
+      "description": "Witness the embodiment of heroism with this iconic anime action figure. With a confident stance and a determined expression, this character exudes unwavering courage. Clad in a vibrant costume, complete with a flowing cape and symbol emblazoned on the chest, it stands as a symbol of hope and justice in a world in need.",
+      "available_quantity": 7
+    },
+    {
+        "id": 8,
+      "seller": "Toy Universe",
+      "toy_name": "Robo Explorer",
+      "sub_category": "Sci-Fi",
+      "img": "https://i.ibb.co/R0ryZMr/622707504-max.jpg",
+      "price": 34.99,
+      "rating": 5,
+      "description" : "Journey to a fantastical realm with this whimsical anime action figure. With its colorful attire, oversized weapon, and mischievous grin, this character captures the spirit of adventure. Its dynamic pose suggests a mischievous leap, ready to take on any challenge with a blend of skill and charm.",
+      "available_quantity": 2
+    },
+    {
+        "id": 9,
+      "seller": "Fun Toys",
+      "toy_name": "Wild Animals",
+      "sub_category": "Animals",
+      "img": "https://i.ibb.co/Z6kxRfH/695088980-max.jpg",
+      "price": 17.99,
+      "rating": 5,
+      "description" : "Embrace the power of nature with this mesmerizing anime action figure. With intricate detailing of foliage and vines, this figure blends seamlessly into its environment. Its pose captures a moment of elemental mastery, as it conjures swirling winds and crackling lightning, channeling the forces of nature to protect the world.",
+      "available_quantity": 12
+    },
+    {
+        "id": 10,
+      "seller": "Playful Pals",
+      "toy_name": "Enchanted Princess",
+      "sub_category": "Fantasy",
+      "img": "https://i.ibb.co/R0ryZMr/622707504-max.jpg",
+      "price": 15.99,
+      "rating": 4.5,
+      "description" : "Behold the mighty warrior, crafted in exquisite detail, ready to unleash his unparalleled combat skills. This anime action figure features a dynamic pose, with bulging muscles and fierce determination etched onto his face. Clad in intricate armor, he wields a colossal sword, poised to strike down any enemy that dares to challenge him.",
+      "available_quantity": 18
+    },
+    {
+        "id": 11,
+      "seller": "Toy World",
+      "toy_name": "Villainous Villain",
+      "sub_category": "Superheroes",
+      "img": "https://i.ibb.co/2S22KR0/611078536-max.jpg",
+      "price": 23.99,
+      "rating": 5,
+      "description" : "Embrace the power of nature with this mesmerizing anime action figure. With intricate detailing of foliage and vines, this figure blends seamlessly into its environment. Its pose captures a moment of elemental mastery, as it conjures swirling winds and crackling lightning, channeling the forces of nature to protect the world.",
+      "available_quantity": 6
+    },
+    {
+        "id": 12,
+      "seller": "Toys Galore",
+      "toy_name": "Stealthy Ninja",
+      "sub_category": "Ninjas",
+      "img": "https://i.ibb.co/JQF426D/611077809-max.jpg",
+      "price": 28.99,
+      "rating": 4.1,
+      "description" : "Behold the mighty warrior, crafted in exquisite detail, ready to unleash his unparalleled combat skills. This anime action figure features a dynamic pose, with bulging muscles and fierce determination etched onto his face. Clad in intricate armor, he wields a colossal sword, poised to strike down any enemy that dares to challenge him.",
+      "available_quantity": 4
+    },
+    {
+        "id": 13,
+      "seller": "Toy Universe",
+      "toy_name": "Galactic Guardian",
+      "sub_category": "Sci-Fi",
+      "img": "https://i.ibb.co/1sCY28h/603153146-max.jpg",
+      "price": 31.99,
+      "rating": 5,
+      "description" : "Embrace the power of nature with this mesmerizing anime action figure. With intricate detailing of foliage and vines, this figure blends seamlessly into its environment. Its pose captures a moment of elemental mastery, as it conjures swirling winds and crackling lightning, channeling the forces of nature to protect the world.",
+      "available_quantity": 9
+    },
+    {
+        "id": 14,
+      "seller": "Fun Toys",
+      "toy_name": "Prehistoric Adventures",
+      "sub_category": "Animals",
+      "img": "https://i.ibb.co/1sCY28h/603153146-max.jpg",
+      "price": 16.99,
+      "rating": 5,
+      "description" : "Journey to a fantastical realm with this whimsical anime action figure. With its colorful attire, oversized weapon, and mischievous grin, this character captures the spirit of adventure. Its dynamic pose suggests a mischievous leap, ready to take on any challenge with a blend of skill and charm.",
+      "available_quantity": 13
+    },
+    {
+        "id": 15,
+      "seller": "Playful Pals",
+      "toy_name": "Mythical Dragon",
+      "sub_category": "Fantasy",
+      "img": "https://i.ibb.co/P60Cn8Q/597710840-max.jpg",
+      "price": 13.99,
+      "rating": 5,
+      "description" : "Embrace the power of nature with this mesmerizing anime action figure. With intricate detailing of foliage and vines, this figure blends seamlessly into its environment. Its pose captures a moment of elemental mastery, as it conjures swirling winds and crackling lightning, channeling the forces of nature to protect the world.",
+      "available_quantity": 17
+    },
+    {
+        "id": 16,
+      "seller": "Toy World",
+      "toy_name": "Web-slinging Hero",
+      "sub_category": "Superheroes",
+      "img": "https://i.ibb.co/7JsbvM0/597708834-max.jpg",
+      "price": 25.99,
+      "rating": 5,
+      "description" : "Behold the mighty warrior, crafted in exquisite detail, ready to unleash his unparalleled combat skills. This anime action figure features a dynamic pose, with bulging muscles and fierce determination etched onto his face. Clad in intricate armor, he wields a colossal sword, poised to strike down any enemy that dares to challenge him.",
+      "available_quantity": 1
+    },
+    {
+        "id": 17,
+      "seller": "Toys Galore",
+      "toy_name": "Shadow Assassin",
+      "sub_category": "Ninjas",
+      "img": "https://i.ibb.co/p0fYM4t/589195877-max.jpg",
+      "price": 27.99,
+      "rating": 5,
+      "description" : "Embrace the power of nature with this mesmerizing anime action figure. With intricate detailing of foliage and vines, this figure blends seamlessly into its environment. Its pose captures a moment of elemental mastery, as it conjures swirling winds and crackling lightning, channeling the forces of nature to protect the world.",
+      "available_quantity": 11
+    },
+    {
+        "id": 18,
+      "seller": "Toy Universe",
+      "toy_name": "Mechanical Warrior",
+      "sub_category": "Sci-Fi",
+      "description" : "Behold the mighty warrior, crafted in exquisite detail, ready to unleash his unparalleled combat skills. This anime action figure features a dynamic pose, with bulging muscles and fierce determination etched onto his face. Clad in intricate armor, he wields a colossal sword, poised to strike down any enemy that dares to challenge him.",
+      "img": "https://i.ibb.co/gZQLRmz/61-Ynzuyk-Xl-L.jpg",
+      "price": 32.99,
+      "rating": 5,
+      "available_quantity": 6
+    },
+    {
+        "id": 19,
+      "seller": "Fun Toys",
+      "toy_name": "Jungle Explorers",
+      "sub_category": "Animals",
+      "img": "https://i.ibb.co/3dz15TY/211222203-max.jpg",
+      "price": 18.99,
+      "rating": 4,
+      "description" : "Embrace the power of nature with this mesmerizing anime action figure. With intricate detailing of foliage and vines, this figure blends seamlessly into its environment. Its pose captures a moment of elemental mastery, as it conjures swirling winds and crackling lightning, channeling the forces of nature to protect the world.",
+      "available_quantity": 14
+    },
+    {
+        "id": 20,
+      "seller": "Playful Pals",
+      "toy_name": "Mystical Unicorn",
+      "sub_category": "Fantasy",
+      "img": "https://i.ibb.co/wSZSJvZ/190188848-max.jpg",
+      "price": 14.99,
+      "rating": 3,
+      "description" : "Behold the mighty warrior, crafted in exquisite detail, ready to unleash his unparalleled combat skills. This anime action figure features a dynamic pose, with bulging muscles and fierce determination etched onto his face. Clad in intricate armor, he wields a colossal sword, poised to strike down any enemy that dares to challenge him.",
+      "available_quantity": 19
+    }
+  ]
